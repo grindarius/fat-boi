@@ -28,6 +28,10 @@ npm run build
 npm run lint
 ```
 
+### Deploy to firebase
+```
+firebase deploy
+```
 
 
 ### Customize configuration
